@@ -4,7 +4,7 @@ I'm Cindy Ngo, a Digital Arts and Computer Sciences student at the University of
 ## 📫 Socials: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cindy-ngo-9546bb19b/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/cindyngo44)
 
-- 🌱 I am currently a Full Stack Developer at The Agency and a Web Development and Design Intern at Starburst Data.
+- 🌱 I am currently a Full Stack Developer at The Agency.
 - :books: My hobbies include digital art/design, games, and reading.
 - :pushpin: Interests: UI/UX, Web Development, Graphic Design, Game Development
 - :heart: Pronouns: She/Her/Hers
