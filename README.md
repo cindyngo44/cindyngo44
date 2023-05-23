@@ -1,10 +1,10 @@
 
 ### Hey there I'm Cindy!👋
-I'm Cindy Ngo, a Digital Arts and Computer Sciences student at the University of Florida. I'm an aspiring Full Stack Developer and Web Designer who is passionate about Human and Computer Interaction including UI/UX.<br>
+I'm a Digital Arts and Sciences graduate from the University of Florida.<br>
 ## 📫 Socials: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cindy-ngo-9546bb19b/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/cindyngo44)
 
-- 🌱 I am currently a Full Stack Developer at The Agency.
+- 🌱 I am currently a Web Developer and Designer @ Starburst Data.
 - :books: My hobbies include digital art/design, games, and reading.
 - :pushpin: Interests: UI/UX, Web Development, Graphic Design, Game Development
 - :heart: Pronouns: She/Her/Hers
