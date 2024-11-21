@@ -6,4 +6,4 @@ I'm a Digital Arts and Sciences graduate from the University of Florida.<br>
 - :pushpin: Interests: UI/UX, Web Development, Graphic Design, Game Development
 - :heart: Pronouns: She/Her/Hers
 
-✨ Check out my [portfolio](https://ngo-cindy4.wixsite.com/portfolio)! ✨
+✨ Check out my [portfolio](https://cindyngo44.github.io/)! ✨
